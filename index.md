@@ -49,6 +49,14 @@ Member of the California Bar.
 
 [@gilbug](http://twitter.com/gilbug) personal account on Twitter.
 
+## [Don Cruse](https://github.com/doncruse)
+
+Member of the Texas Bar.
+
+[@doncruse](https://twitter.com/doncruse) on Twitter.
+
+[Blog](http://www.scotxblog.com)
+
 ## [Brandon Hudgeons](https://github.com/bhudgeons)
 
 Member of the Texas Bar. (inactive).
@@ -89,3 +97,18 @@ Student at American University Washington College of Law.
 
 [Personal Website](http://alandelevie.com)
 
+### [Joe Kane](https://github.com/kanejoe)
+
+Solicitor and Member of Law Society of Ireland.
+
+[@jkco](https://twitter.com/jkco)
+
+[Personal Website](http://www.jkco.ie)
+
+### [Kyle Mitchell](https://github.com/kemitchell)
+
+Student at The University of Texas School of Law.
+
+[@kemitchell](https://twitter.com/kemitchell)
+
+[Personal Website](http://www.kemitchell.com)
